@@ -1,0 +1,2 @@
+# VirgenPeregrinaFrontend
+Proyecto Virgen Peregrina
